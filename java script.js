@@ -1,6 +1,6 @@
 //1. Add two numbers and print the result. (Use + operator)
-let a1=5;
-let b1=10;
+let a1=10;
+let b1=15;
 {
     console.log("addition of two number is:",a1+b1);
 };
