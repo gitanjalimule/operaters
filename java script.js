@@ -2,7 +2,7 @@
 let a1=10;
 let b1=15;
 {
-    console.log("addition of two number is:",a1+b1);
+    console.log("add of two number is:",a1+b1);
 };
 
 //2. Find the remainder when 17 is divided by 3. (Use % operator)
@@ -27,7 +27,7 @@ let z=4;
  let r=x1-y1;
  let r2=r/5;
  {
-    console.log("subtraction of 250 ans 100 is:",r +"\n"+"after divide the result:" ,r2);
+    console.log("sub of 250 ans 100 is:",r +"\n"+"after divide the result:" ,r2);
  };
 
  // 5. What will be the output?
